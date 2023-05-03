@@ -1,3 +1,7 @@
+This Random Forest Regression is a machine Learning Model built to predict the price of houses in Melbourne housing market.
+
+The codes below are included in the dataset and are explained accordingly.
+
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
         20	1-STORY 1946 & NEWER ALL STYLES
